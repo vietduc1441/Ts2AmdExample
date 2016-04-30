@@ -1,0 +1,10 @@
+{
+"compilerOptions" : {
+"module" : "amd",
+"target" : "es5"
+},
+"files" : [
+    "module/drawing/module1.ts",
+    "module/module2.ts"
+]
+}
