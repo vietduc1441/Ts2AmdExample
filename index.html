@@ -12,13 +12,9 @@
 
     <script>
         require([
-            'dojo/dom',
-            'dojo/dom-construct',
-            "release/module2"
-        ], function (dom, domConstruct, viewFunc) {
-            viewFunc.view();
-            var greetingNode = dom.byId('greeting');
-            domConstruct.place('<em> Dojo!</em>', greetingNode);
+            "release/main"
+        ], function (main) {
+            main();
         });
     </script>
 </body>

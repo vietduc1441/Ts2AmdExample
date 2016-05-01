@@ -1,0 +1,12 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "dojo/dojo.d.ts": {
+      "commit": "8cc14d55978d9eca2c374adf1c70d5b9c0abef70"
+    }
+  }
+}

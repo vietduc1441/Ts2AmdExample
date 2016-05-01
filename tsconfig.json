@@ -5,6 +5,7 @@
 },
 "files" : [
     "module/drawing/module1.ts",
-    "module/module2.ts"
+    "module/module2.ts",
+    "module/main.ts"
 ]
 }
